@@ -1,0 +1,42 @@
+
+
+installation of 5stars Rentals And Apartmenys project
+
+
+Softwares need 
+
+1. xamp or wamp 
+
+2. xamp/wamp - extract the zip file to inside htdocs/www.
+
+3. start xamp/wamp server.
+
+4. open browser and type - localhost/5stars
+
+
+show error--
+
+SQLSTATE[HY000] [1049] Unknown database '5stars'
+
+
+5. goto localhost/phpmyadmin .
+
+and create database stars
+
+and import 5stars.sql file
+
+6. finally project is successfully installed 
+
+next see how to work it
+
+admin login
+
+username - admin
+
+password- admin
+
+
+Register as new user 
+
+
+
